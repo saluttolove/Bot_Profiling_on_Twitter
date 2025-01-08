@@ -1,4 +1,4 @@
-# Bot Detection and Classification Experiments
+# Bot Detection Experiments
 
 This repository contains the code and datasets used for experiments on bot detection and classification. The dataset utilized in this project is sourced from the following paper:
 
@@ -7,9 +7,7 @@ This repository contains the code and datasets used for experiments on bot detec
 
 ## Dataset
 
-The dataset includes pre-split training, validation, and test files, which can be found in the `dataset` folder. The splits are structured as follows: Training set, Validation set and Test set.
-
-## Tasks and Experiments
+The dataset includes pre-split training, validation, and test files, which can be found in the `dataset` folder.
 
 ### Task 1: Human vs. Bot Classification
 The first task focuses on distinguishing between human-generated and bot-generated tweets.
