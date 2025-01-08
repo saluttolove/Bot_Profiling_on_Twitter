@@ -1,6 +1,6 @@
 # Bot Detection Experiments
 
-This repository contains the code and datasets used for experiments on bot detection and classification. The dataset utilized in this project is sourced from the following paper:
+This repository contains the code and datasets used for experiments on bot detection. The dataset utilized in this project is sourced from the following paper:
 
 > Tommaso Fagni, Fabrizio Falchi, Marco Gambini, Alberto Martella, and Maurizio Tesconi. 2021. TweepFake: About Detecting Deepfake Tweets. *PLOS ONE, 16(5):e0251415*.  
 > Dataset link: [Kaggle - Twitter Deep Fake Text](https://www.kaggle.com/datasets/mtesconi/twitter-deep-fake-text/data)
