@@ -26,14 +26,9 @@ Each step has already been executed, so you can directly view the results withou
 
 ## Citation
 
-If you use this dataset or reference this project, please cite the original dataset paper:
-@article{fagni2021tweepfake,
-  title={TweepFake: About Detecting Deepfake Tweets},
-  author={Fagni, Tommaso and Falchi, Fabrizio and Gambini, Marco and Martella, Alberto and Tesconi, Maurizio},
-  journal={PLOS ONE},
-  volume={16},
-  number={5},
-  pages={e0251415},
-  year={2021},
-  publisher={Public Library of Science}
-}
+If you use this dataset or reference this project, please cite the original dataset paper as follows:
+
+T. Fagni, F. Falchi, M. Gambini, A. Martella, and M. Tesconi.  
+**TweepFake: About Detecting Deepfake Tweets.**  
+*PLOS ONE, 16(5):e0251415, 2021.*  
+DOI: [10.1371/journal.pone.0251415](https://doi.org/10.1371/journal.pone.0251415)
